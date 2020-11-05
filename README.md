@@ -1,2 +1,8 @@
 # hello-word
-just a repository
+
+Hi guys! 
+
+I'm wenqing!
+
+I'm still a student from Bristol
+
